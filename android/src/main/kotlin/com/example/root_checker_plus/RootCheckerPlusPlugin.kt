@@ -1,6 +1,5 @@
 package com.example.root_checker_plus
 
-
 import android.app.Activity
 import android.content.Context
 import android.content.Intent

@@ -1,3 +1,3 @@
-## 0.0.2
+## 0.0.3
 
-* TODO: Plugin used for detecting root device in android and jailbreak detection ios.
+* Documention added

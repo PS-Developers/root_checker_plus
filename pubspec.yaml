@@ -1,6 +1,6 @@
 name: root_checker_plus
 description: Plugin used for detecting root device in android and  jailbreak detection ios.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/PanneerDev/root_checker_plus.git
 
 environment:
